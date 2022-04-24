@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>COMP2396_As5</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/avatars</name>
+			<type>2</type>
+			<locationURI>PARENT-1-PROJECT_LOC/COMP2396_As4/avatars</locationURI>
+		</link>
+		<link>
+			<name>src/cards</name>
+			<type>2</type>
+			<locationURI>PARENT-1-PROJECT_LOC/COMP2396_As4/cards</locationURI>
+		</link>
+	</linkedResources>
+</projectDescription>
